@@ -1,0 +1,60 @@
+
+#title{
+    background-color: purple;
+    color: #fff;
+}
+.title-image{
+    height: 20rem;
+    width: 20rem;
+    border-radius: 100%;
+    margin-bottom: 10%;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.navbar-brand{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+
+.navbar-item{
+    padding: 0 18px;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+h1{
+    font-family: 'Permanent Marker', cursive;
+    
+    padding: 12%;
+}
+
+.row{
+    padding: 3% 10% 5%;
+    text-align: center;
+}
+.contact-link{
+    text-decoration: none;
+    
+}
+.contact-image{
+
+}
+.image-size{
+    height: 50rem;
+    width: 8.5rem;
+}
+#footer{
+    text-align: center;
+    padding: 20px;
+
+}
+.footer-icon{
+    margin: 10px 12px;
+}
